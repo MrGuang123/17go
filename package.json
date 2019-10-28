@@ -1,11 +1,11 @@
 {
-  "name": "ytginit",
+  "name": "17go",
   "version": "1.0.0",
   "description": "simple cli for vue and so on",
   "preferGlobal": true,
   "main": "index.js",
   "bin": {
-    "ytginit": "./index.js"
+    "17go": "./index.js"
   },
   "repository": {
     "type": "git",
